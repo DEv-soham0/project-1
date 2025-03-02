@@ -4,7 +4,7 @@
 
 ---
 
-Try it out live in the browser 👉🏻 [(link)](https://francesconatali.com/personalprojects/ML/toxic-text-detection/)
+Try it out live in the browser 👉🏻 [(link)](https://eloquent-chimera-125a10.netlify.app/)
 
 ---
 
