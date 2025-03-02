@@ -18,7 +18,7 @@ Once a sentence is submitted, the text is tokenized and passed to the model. The
 
 #### About the model
 
-The model is trained using the (https://www.tensorflow.org/lite/models/modify/model_maker/text_classification), trained on a custom dataset of almost 2 thousands classified comments from Youtube and other sources. I trained the original Python model using Google Colab, then converted it in the TensorFlowJS format to be used in the browser. The entire model is just **199KB**, which makes it very lightweight.
+The model is trained using the (https://www.tensorflow.org/lite/models/modify/model_maker/text_classification), trained on a custom dataset of almost 3 thousands classified comments from Youtube and other sources. I trained the original Python model using Google Colab, then converted it in the TensorFlowJS format to be used in the browser. The entire model is just **199KB**, which makes it very lightweight.
 
 #### Future improvements 🚀
 
