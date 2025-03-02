@@ -4,7 +4,7 @@
 
 ---
 
-Try it out live in the browser 👉🏻 [(link)](https://eloquent-chimera-125a10.netlify.app/)(https://aquamarine-zuccutto-8d6170.netlify.app/)
+Try it out live in the browser 👉🏻 [(link)](https://eloquent-chimera-125a10.netlify.app/)//(https://aquamarine-zuccutto-8d6170.netlify.app/)
 
 ---
 
